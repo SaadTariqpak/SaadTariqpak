@@ -31,7 +31,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="saadtariq109" height="30" width="40" /></a>
   <a href="https://profile.codersrank.io/user/saadtariqpak" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      src="https://codersrank.io/wp-content/uploads/2019/11/cr-logo-horizontal-1.svg"
       alt="saadtariqpak" height="30" width="40" /></a>
  <!-- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
