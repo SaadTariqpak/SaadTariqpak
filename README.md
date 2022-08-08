@@ -9,7 +9,7 @@
 
 <br>
 
-- 💼 any freelance work? do reach, [email](mailto:saadtariqpak@gmail.com) :)
+- 💼 Any freelance work? do reach, [email](mailto:saadtariqpak@gmail.com) :)
 
 - 💬 Ask me about anything, I am happy to help
 
