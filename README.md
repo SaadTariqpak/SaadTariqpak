@@ -1,28 +1,27 @@
 <h1 align="center">Hi 👋, I'm Saad Tariq</h1>
+<h3 align="center">A software engineer(Android) from Pakistan.</h3>
 
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=saadtariqpak&style=flat-square"
-    alt="saadtariqpak" /> 
+    alt="saadtariqpak" />
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+- 💼 any freelance work? do reach, [email](mailto:saadtariqpak@gmail.com) :)
 
-<!-- - 🌱 I’m currently learning Web Development and other programming languages -->
+- 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me **saadtariqpak@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+ <a href="https://www.linkedin.com/in/saad-tariq-266669156/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a> -->
+      alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/saad.tariq.5851/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="saad.tariq.5851" height="30" width="40" /></a>
@@ -32,9 +31,6 @@
   <a href="https://profile.codersrank.io/user/saadtariqpak" target="blank"><img align="center"
       src="https://user-images.githubusercontent.com/3371601/72540690-d32c8d80-3846-11ea-9690-c0ed6c479309.png"
       alt="saadtariqpak" height="30" width="40" /></a>
- <!-- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
 </p>
 
 <br>
